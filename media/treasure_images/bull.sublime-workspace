@@ -1,0 +1,925 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"create",
+				"create_user"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"pass",
+				"password_confermation"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"usern",
+				"username"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect"
+			],
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"tr",
+				"treasure_id"
+			],
+			[
+				"treas",
+				"treasure"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"tre",
+				"treasure-photo"
+			],
+			[
+				"panel",
+				"panel-title"
+			],
+			[
+				"panel-",
+				"panel-heading"
+			],
+			[
+				"p",
+				"treasure-photo"
+			],
+			[
+				"pa",
+				"panel-body"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"Http",
+				"HttpResponseRedirect"
+			],
+			[
+				"treau",
+				"treasure_id"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"com",
+				"componentWillUnMount"
+			],
+			[
+				"col",
+				"col-sm-6"
+			],
+			[
+				"u",
+				"updateState"
+			],
+			[
+				"on",
+				"onClick"
+			],
+			[
+				"set",
+				"setStateHandler"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"scrollT",
+				"scrollToTop"
+			],
+			[
+				"scrollto",
+				"scrollToTop"
+			],
+			[
+				"scroll",
+				"ScrollTop"
+			],
+			[
+				"scro",
+				"scrollTopbtn"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"scr",
+				"scrollStep"
+			],
+			[
+				"a",
+				"App"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"sub",
+				"sub_cont"
+			],
+			[
+				"s",
+				"sub_cont"
+			],
+			[
+				"L",
+				"LabRead"
+			],
+			[
+				"Ro",
+				"Route"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"n",
+				"nbsp"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"component",
+				"componentData"
+			],
+			[
+				"Rout",
+				"Router"
+			],
+			[
+				"rea",
+				"react"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"Re",
+				"Router"
+			],
+			[
+				"Route",
+				"Router"
+			],
+			[
+				"b",
+				"BrowserRouter"
+			],
+			[
+				"R",
+				"Router"
+			],
+			[
+				"cal",
+				"className"
+			],
+			[
+				"sign",
+				"Signin"
+			],
+			[
+				"User",
+				"userName"
+			],
+			[
+				"Update",
+				"updateState"
+			],
+			[
+				"reac",
+				"ReactDOM"
+			],
+			[
+				"Component",
+				"ComponentData"
+			],
+			[
+				"hello",
+				"Hello"
+			],
+			[
+				"t",
+				"target"
+			],
+			[
+				"e",
+				"event"
+			],
+			[
+				"pare",
+				"Parent"
+			],
+			[
+				"o",
+				"OtherChild"
+			],
+			[
+				"pr",
+				"props"
+			],
+			[
+				"Conten",
+				"content"
+			],
+			[
+				"Header",
+				"headerprop"
+			],
+			[
+				"react",
+				"React"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"S",
+				"setNewNumber"
+			],
+			[
+				"co",
+				"Component"
+			],
+			[
+				"c",
+				"comment-footer"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"Co",
+				"comment"
+			],
+			[
+				"comment",
+				"Comments"
+			],
+			[
+				"h",
+				"header"
+			],
+			[
+				"React",
+				"ReactDOM"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"m",
+				"Member"
+			],
+			[
+				"member",
+				"MemberPackge"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"list",
+				"list-style-position"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"flash",
+				"flashMessage"
+			],
+			[
+				"DIV",
+				"DIV1"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"sc",
+				"script\tTag"
+			],
+			[
+				"btn",
+				"btn"
+			],
+			[
+				"onm",
+				"onmouseout\tAttr"
+			],
+			[
+				"onmouse",
+				"onmouseover\tAttr"
+			],
+			[
+				"I",
+				"id\tAttr"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"per",
+				"permanentemployee"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"ge",
+				"getName"
+			],
+			[
+				"workout",
+				"workout_duration"
+			],
+			[
+				"email",
+				"email_config"
+			],
+			[
+				"reset",
+				"account_reset_password"
+			],
+			[
+				"ex",
+				"extra_email_context"
+			],
+			[
+				"f",
+				"firstName"
+			],
+			[
+				"sh",
+				"showAge"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"passw",
+				"password_reset"
+			],
+			[
+				"F",
+				"FormView"
+			],
+			[
+				"Passwor",
+				"PasswordResetRequestForm"
+			],
+			[
+				"EMAIL",
+				"EMAIL_BACKEND"
+			],
+			[
+				"WORKS",
+				"S7Works"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bak",
+				"background-repeat"
+			],
+			[
+				"bac",
+				"background-image"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/norm/Desktop/venkatesh-training/ecommerce/shop/views.py",
+		"/home/norm/Desktop/venkatesh-training/ecommerce/cart/templates/cart/deatil.html",
+		"/home/norm/Desktop/venkatesh-training/ecommerce/shop/templates/shop/base.html",
+		"/home/norm/Desktop/venkatesh-training/ecommerce/shop/templates/shop/product/list.html",
+		"/home/norm/Desktop/venkatesh-training/ecommerce/shop/templates/shop/product/detail.html",
+		"/home/norm/Desktop/venkatesh-training/ecommerce/cart/views.py",
+		"/home/norm/Desktop/venkatesh-training/ecommerce/cart/forms.py",
+		"/home/norm/Desktop/venkatesh-training/ecommerce/cart/cart.py",
+		"/home/norm/Desktop/venkatesh-training/ecommerce/ecommerce/settings.py",
+		"/home/norm/Desktop/venkatesh-training/ecommerce/shop/models.py",
+		"/home/norm/Desktop/venkatesh-training/ecommerce/cart/urls.py",
+		"/home/norm/Desktop/venkatesh-training/ecommerce/shop/urls.py",
+		"/home/norm/Desktop/venkatesh-training/ecommerce/ecommerce/urls.py",
+		"/home/norm/Desktop/venkatesh-training/ecommerce/shop/templates/shop/product/base.html",
+		"/home/norm/Desktop/venkatesh-training/ecommerce/shop/admin.py",
+		"/home/norm/Desktop/venkatesh-training/ecommerce/shop/static/css/style.css",
+		"/home/norm/Desktop/venkatesh-training/ecommerce/shop/templates/shop/product/navbar.html",
+		"/home/norm/Desktop/venkatesh-training/ecommerce/shop/tests.py",
+		"/home/norm/Desktop/venkatesh-training/website/treasure/tests.py",
+		"/home/norm/Desktop/venkatesh-training/website/website/settings.py",
+		"/home/norm/Desktop/venkatesh-training/website/website/urls.py",
+		"/home/norm/Desktop/venkatesh-training/website/treasure/views.py",
+		"/home/norm/Desktop/venkatesh-training/website/treasure/templates/signup.html",
+		"/home/norm/Desktop/venkatesh-training/website/treasure/templates/login.html",
+		"/home/norm/Desktop/venkatesh-training/website/treasure/templates/base.html",
+		"/home/norm/Desktop/venkatesh-training/website/treasure/templates/profile.html",
+		"/home/norm/Desktop/venkatesh-training/website/treasure/templates/index.html",
+		"/home/norm/Desktop/venkatesh-training/website/treasure/urls.py",
+		"/home/norm/Desktop/venkatesh-training/website/treasure/forms.py",
+		"/home/norm/Desktop/venkatesh-training/website/treasure/templates/detail.html",
+		"/home/norm/Desktop/venkatesh-training/website/treasure/models.py",
+		"/home/norm/Desktop/venkatesh-training/website/treasure/templates/register.html",
+		"/home/norm/Desktop/venkatesh-training/website/treasure/static/style.css",
+		"/home/norm/Desktop/venkatesh-training/website/treasure/static/js/main.js",
+		"/home/norm/Desktop/venkatesh-training/website/treasure/static/bootstrap.min.css",
+		"/home/norm/Desktop/venkatesh-training/website/treasure/static/js/jquery-3.0.0.min.js",
+		"/home/norm/Desktop/venkatesh-training/website/treasure/admin.py",
+		"/home/norm/Desktop/venkatesh-training/website/treasure/template/index.html",
+		"/home/norm/Desktop/venkatesh-training/website/website/star.py",
+		"/home/norm/Desktop/venkatesh-training/website/website/views.py",
+		"/home/norm/Desktop/venkatesh-training/__pycache__/csv.cpython-35.pyc",
+		"/home/norm/JVB Project/healthtracker/assets/js/components/Heart_rate_recovery.jsx",
+		"/home/norm/JVB Project/healthtracker/assets/js/components/HomePageReactTitle.jsx",
+		"/home/norm/JVB Project/healthtracker/package.json",
+		"/home/norm/JVB Project/healthtracker/assets/js/components/fitbitData.jsx",
+		"/home/norm/JVB Project/healthtracker/assets/sass/components/_HomePageReactTitle.scss",
+		"/home/norm/JVB Project/healthtracker/webpack.base.config.js",
+		"/home/norm/JVB Project/healthtracker/webpack.local.config.js",
+		"/home/norm/JVB Project/healthtracker/webpack-stats.json",
+		"/home/norm/JVB Project/healthtracker/assets/sass/vendor/spritesmith.scss",
+		"/home/norm/JVB Project/healthtracker/webpack.prod.config.js",
+		"/home/norm/JVB Project/healthtracker/assets/js/index.html",
+		"/home/norm/JVB Project/healthtracker/layouts/index.html",
+		"/home/norm/JVB Project/healthtracker/assets/js/components/dashboard/Dashboard.jsx",
+		"/home/norm/JVB Project/healthtracker/registration/email.py",
+		"/home/norm/JVB Project/healthtracker/assets/js/components/navbar.jsx",
+		"/home/norm/JVB Project/healthtracker/jvbhealthwellness/settings/production.py",
+		"/home/norm/JVB Project/healthtracker/jvbhealthwellness/settings/local_base.py",
+		"/home/norm/JVB Project/healthtracker/assets/sass/components/_UserInputs.scss",
+		"/home/norm/JVB Project/healthtracker/assets/js/components/leader_exp.jsx",
+		"/home/norm/JVB Project/healthtracker/assets/js/components/heart_rate_calculation.jsx",
+		"/home/norm/JVB Project/healthtracker/assets/js/components/quicksummary/quicksummary.jsx",
+		"/home/norm/JVB Project/healthtracker/assets/sass/components/_quicksummary.scss",
+		"/home/norm/JVB Project/healthtracker/assets/js/components/user_input/UserInputs.jsx",
+		"/home/norm/JVB Project/healthtracker/assets/js/components/dashboard_summary.jsx",
+		"/home/norm/JVB Project/healthtracker/assets/sass/components/_leaderboard.scss",
+		"/home/norm/JVB Project/healthtracker/assets/sass/components/_navbar.scss",
+		"/home/norm/JVB Project/healthtracker/assets/js/components/registration/validation.jsx",
+		"/home/norm/JVB Project/healthtracker/assets/js/components/leaderboard_allrank.jsx",
+		"/home/norm/JVB Project/healthtracker/assets/js/components/localStorage.js",
+		"/home/norm/JVB Project/healthtracker/jvbhw/Lib/site-packages/coverage/htmlfiles/jquery.tablesorter.min.js",
+		"/home/norm/jyo/style/style.css",
+		"/home/norm/UDSproject/src/components/app.js",
+		"/home/norm/UDSproject/src/components/router.js",
+		"/home/norm/reactSample/src/components/user.js",
+		"/home/norm/reactSample/src/components/list.js",
+		"/home/norm/reactSample/src/components/router.js",
+		"/home/norm/reactSample/src/components/header.js",
+		"/home/norm/reactSample/src/components/signin.js",
+		"/home/norm/reactSample/src/components/sample.js",
+		"/home/norm/reactSample/src/components/props.js",
+		"/home/norm/reactSample/src/index.js",
+		"/home/norm/reactSample/src/components/item.js",
+		"/home/norm/reactSample/src/components/index.js",
+		"/home/norm/reactSample/src/components/main.js",
+		"/home/norm/reactSample/src/components/app.js",
+		"/home/norm/ReduxSimpleStarter/src/components/main.js",
+		"/home/norm/ReduxSimpleStarter/src/components/app.js",
+		"/home/norm/ReduxSimpleStarter/src/reducers/index.js",
+		"/home/norm/ReduxSimpleStarter/src/index.js",
+		"/home/norm/sampleProject/src/components/app.js",
+		"/home/norm/sampleProject/src/components/index2.js",
+		"/home/norm/sampleProject/src/components/swapna.js",
+		"/home/norm/sampleProject/src/components/ref.js",
+		"/home/norm/sampleProject/src/components/key.js",
+		"/home/norm/sampleProject/src/components/index.js",
+		"/home/norm/sampleProject/src/components/signup.js",
+		"/home/norm/sampleProject/src/components/app1.js",
+		"/home/norm/sampleProject/src/components/parent.js",
+		"/home/norm/sampleProject/src/components/index1.js",
+		"/home/norm/sampleProject/src/components/app2.js",
+		"/home/norm/sampleProject/src/components/hello.js",
+		"/home/norm/sampleProject/package-lock.json",
+		"/home/norm/sampleProject/src/components/const.js",
+		"/home/norm/sampleProject/src/components/comment.js",
+		"/home/norm/reactProject/src/components/app1.js",
+		"/home/norm/reactProject/src/index.js",
+		"/home/norm/expl/index1.html",
+		"/home/norm/expl/index2.html",
+		"/home/norm/expl/app.jsx",
+		"/home/norm/expl/main1.js",
+		"/home/norm/examples/number.html",
+		"/home/norm/examples/promise.js",
+		"/home/norm/examples/index.html",
+		"/home/norm/examples/index1.html",
+		"/home/norm/examples/flash-message.js",
+		"/home/norm/examples/modules.html",
+		"/home/norm/examples/employee.html",
+		"/home/norm/examples/prototype.html",
+		"/home/norm/examples/alert.html",
+		"/home/norm/examples/bubbling.html",
+		"/home/norm/examples/app.js",
+		"/home/norm/examples/text.html",
+		"/home/norm/examples/mouse.html",
+		"/home/norm/Desktop/healthtracker/assets/js/network/auth.js",
+		"/home/norm/Desktop/healthtracker/assets/js/network/forget.js",
+		"/home/norm/Desktop/healthtracker/user_input/views/garmin_views.py",
+		"/home/norm/Desktop/healthtracker/layouts/user_inputs.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"@f",
+			"@font-face\n",
+			"@font-face",
+			"/font\n",
+			"/fonts/glyphicons-halflings-regular\n",
+			"<",
+			"= f",
+			"row",
+			"ms",
+			"max",
+			"TreasureForm",
+			"models",
+			"row",
+			".top-content .container .row>[class^=col-]",
+			"bootstrap",
+			"bootstrap4",
+			"bootstrap",
+			"BASE_DIR",
+			" col-sm-offset-3",
+			"base.py",
+			"settings",
+			"'],",
+			"spritesmith",
+			"col-sm-6",
+			"forms.scss",
+			"ModalHeader",
+			"DropdownToggle",
+			"Popover",
+			".img-fluid",
+			"navbar-toggler",
+			"img-fluid",
+			"img-",
+			"img-fluid",
+			"navbar-toggler",
+			"container-fluid",
+			"react-app",
+			"container",
+			"containre",
+			"gradeskey",
+			"grades",
+			"gradeskey",
+			"gradekey",
+			"grade key",
+			"modal-footer",
+			"button",
+			"form-box",
+			"tablecenter",
+			"drop_date_range_btn3",
+			"social-login",
+			"img-fluid",
+			"img",
+			"navtoggler",
+			"nav-toggler",
+			"link",
+			"head",
+			"back",
+			"Back",
+			"ScrollUpButton",
+			"lb_table_style",
+			"table table-responsive",
+			"btn btn-info",
+			"back",
+			"scroll",
+			"Link",
+			"link",
+			"table",
+			"btn4",
+			"btn3",
+			"nav-btn",
+			"btn2",
+			"btn4",
+			"btn",
+			"nav-btn",
+			"btn2",
+			"nav-btn",
+			"refreshdata",
+			"daterange",
+			"datera",
+			"export",
+			"btn-block-log",
+			"Reportdate",
+			"btn",
+			"dropsteps",
+			"float-sm-right",
+			" fonts",
+			" navbar-nav",
+			"fonts navbar-nav",
+			"displ",
+			"block",
+			"display",
+			"use",
+			"font",
+			"weigh",
+			"#user-inputs",
+			"lodash",
+			"axios",
+			"hr",
+			">\n",
+			"\t\t  \n",
+			"\t\t\t\t            ",
+			">\n",
+			"}\n",
+			"   \n",
+			"/>\n",
+			";\n",
+			">\n",
+			";\n",
+			">\n",
+			">);",
+			"has_weather_data",
+			"weather_check",
+			"workout_comment",
+			"fasted",
+			"breath_nose",
+			"water_consumed",
+			"pain",
+			"workout_effort",
+			"workout_easy",
+			"editable",
+			"what did ",
+			"axios",
+			"handleSubmit",
+			"onSubmit",
+			"slee",
+			"forgot password",
+			"login",
+			"we",
+			"UserGarminDataSleep"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bull.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 311.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
